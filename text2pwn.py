@@ -19,7 +19,7 @@ def gfxpa():
 	print cinco.center(125, ' ')
 gfxpa()
 #/////////ENCODERS//////////
-#URL Encoding
+#URL-Encoding
 def urlenc():
 	
 	#pr2 =" text2pwn"
